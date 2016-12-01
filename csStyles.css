@@ -1,0 +1,30 @@
+table {
+	width: 45%; 
+	margin: 12px 0; 
+	border: 2px #101010 solid; 
+	line-height: 24px; 
+	border-collapse: collapse; 
+}
+
+table td, table th {
+	padding: 0 1%;
+	border: 1px #b1b1b1 solid;
+}
+
+.large {
+	font-size: 18px;
+	text-align: center;
+}
+
+.red {
+	background: #ffeded;
+}
+
+.yellow {
+	background: #fefae9;
+}
+
+.site-title {
+	background: #101010;
+	color: #fff;
+}
